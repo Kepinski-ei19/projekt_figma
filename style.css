@@ -24,6 +24,9 @@ aside {
 	background-color: white;
 }
 
+#menu > li > a {
+}
+
 footer {
 	background-color: #d9d9d9;
 

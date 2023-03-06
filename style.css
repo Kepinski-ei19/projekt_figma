@@ -35,8 +35,13 @@ aside {
 }
 
 #menu {
+	height: 100%;
 	margin: 0;
+	padding: 0;
 	list-style: none;
+
+	display: grid;
+	grid-row-gap: 20px;
 }
 
 #menu > li {
@@ -47,6 +52,13 @@ aside {
 #menu > li > a {
 	text-decoration: none;
 	color: black;
+
+	height: 100%;
+	width: 100%;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 footer {

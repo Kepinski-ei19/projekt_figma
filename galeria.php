@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+    <div class="container">
     <?php include 'struktura.php'?>
 
     <main>
@@ -25,5 +26,6 @@
             Libero ex, sint, officiis suscipit doloremque modi quasi velit blanditiis hic neque, exercitationem obcaecati ut accusantium necessitatibus vel magnam. Beatae quo, nesciunt eligendi eaque dolorem neque nobis blanditiis itaque sint.
         </article>
     </main>
+    </div>
 </body>
 </html>

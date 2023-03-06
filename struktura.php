@@ -8,5 +8,5 @@
     echo '<li><a href="kontakt.php">Kontakt</a></li>';
     echo '</ul></aside>';
 
-    echo '<footer>&copy'.date("Y").' Stahoo Kępiński</footer>';
+    echo '<footer><h3>&copy'.date("Y").' Stahoo Kępiński<h3></footer>';
 ?>

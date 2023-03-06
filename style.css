@@ -57,6 +57,7 @@ main {
 	border-radius: 1em;
 	overflow: scroll;
 	overflow-x: hidden;
+	scroll-behavior: smooth;
 
 	grid-area: 2 / 2 / 3 / 3;
 
@@ -71,10 +72,6 @@ article {
 	background-color: white;
 	border-radius: 1em;
 	padding: 0.5em 0.5em 0.5em 0.5em;
-}
-
-html {
-	scroll-behavior: smooth;
 }
 
 body {

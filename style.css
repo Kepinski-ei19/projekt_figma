@@ -22,9 +22,12 @@ aside {
 
 #menu > li {
 	background-color: white;
+	list-style: none;
 }
 
 #menu > li > a {
+	text-decoration: none;
+	color: black;
 }
 
 footer {

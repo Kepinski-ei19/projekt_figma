@@ -12,6 +12,7 @@
     <?php include 'struktura.php'?>
 
     <main>
+        <article>Treść</article>
     </main>
 </body>
 </html>

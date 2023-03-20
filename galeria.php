@@ -13,14 +13,13 @@
         <?php include 'struktura.php'?>
 
         <main>
-            <article>
-                <h2>Header</h2>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto eligendi voluptatibus maiores dolorum enim? Earum maxime veritatis dolorum voluptatibus nam minima at quos sequi, dolorem adipisci facilis quod dignissimos perspiciatis?
-            </article>
-            <article>
-                <h2>Header</h2>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum enim accusamus sit quis, fuga praesentium facere incidunt. Sunt, sint repudiandae? Sit nobis, earum sunt voluptates harum aut voluptatibus labore maiores!
-            </article>
+            <div class="fit-pics">
+                <img src="imgs/radiostacja.jpg" alt="Banda szefów">
+                <img src="imgs/dupa.jpg" alt="Wypadek przy sesji zdjęciowej">
+                <img src="imgs/gigabula.jpg" alt="Giga Buła w Bytomiu">
+                <img src="imgs/myjnia.jpg" alt="Mycie Felicii">
+                <img src="imgs/felga.jpg" alt="Będzie spasik">
+            </div>
         </main>
     </div>
 </body>

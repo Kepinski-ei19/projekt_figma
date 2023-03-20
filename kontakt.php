@@ -14,12 +14,15 @@
 
         <main>
             <article>
-                <h2>Header</h2>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto eligendi voluptatibus maiores dolorum enim? Earum maxime veritatis dolorum voluptatibus nam minima at quos sequi, dolorem adipisci facilis quod dignissimos perspiciatis?
-            </article>
-            <article>
-                <h2>Header</h2>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum enim accusamus sit quis, fuga praesentium facere incidunt. Sunt, sint repudiandae? Sit nobis, earum sunt voluptates harum aut voluptatibus labore maiores!
+                <h2>Jak się ze mną skontaktować?</h2>
+                Można się ze mną skontaktować całkiem prostymi metodami:
+
+                <ul>
+                    <li>Poprzez telegrama: @ZakosiliMiPeCeta</li>
+                    <li>Poprzez e-maila: kepinskiei19@gmail.com</li>
+                </ul>
+
+                Jeśli masz jakąś sprawę - Zapraszam do kontaktu!
             </article>
         </main>
     </div>

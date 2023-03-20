@@ -10,18 +10,18 @@
 </head>
 <body>
     <div class="container">
-    <?php include 'struktura.php'?>
+        <?php include 'struktura.php'?>
 
-    <main>
-        <article>
-            <h2>Coś nie działa....</h2>
-            Generalnie to od jakichś 3 dni walczę z immobilizerem, bo nie mogę zdobyć od niego PINu, by zaprogramować nowe kluczyki XD
-        </article>
-        <article>
-            <h2>Kupiłem dużo złomu!</h2>
-            Ziomek od którego nakupowałem gratów robi czyszczenie garażu i rozdaje części do felicii za friko, żyć nie umierać xD
-        </article>
-    </main>
-</div>
+        <main>
+            <article>
+                <h2>Coś nie działa....</h2>
+                Już zadziałało, gdyż jendak byłem zmuszony do wykodowania immobilisera totalnie z ECU, więc stacyjka w końcu siedzi w aucie.
+            </article>
+            <article>
+                <h2>Kupiłem dużo złomu!</h2>
+                Trafił się jeden majster co kisił części do felicii w garażu po tym jak swoją oddał na złom, zgadałem się z nim i kupiłem części do mojego genialnego autka.
+            </article>
+        </main>
+    </div>
 </body>
 </html>

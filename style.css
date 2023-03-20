@@ -95,3 +95,12 @@ article {
 body {
 	margin: 0;
 }
+
+.fit-pics {
+	background-color: white;
+	border-radius: 1em;
+	padding: 0.5em 0.5em 0.5em 0.5em;
+	height: inherit;
+	width: inherit;
+}
+	

@@ -103,8 +103,16 @@ body {
 	height: inherit;
 	width: inherit;
 
-	display: grid;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	align-items: flex-start;
+	align-content: flex-start;
 }
 
 .fit-pics>img	{
+	height: auto;
+	width: 33%;
+	margin: 1em;
 }

@@ -22,7 +22,7 @@
                 <h2>Odnośnie ZSTI..</h2>
                 Trzymajcie linka! Wystarczy kliknąć w przycisk.<br>
                 <div class="link_container">
-                    <a href="https://zsti.gliwice.pl">Strona ZSTI</a>
+                    <a href="https://zsti.gliwice.pl" target="_blank">Strona ZSTI</a>
                 </div>
             </article>
             <article>
